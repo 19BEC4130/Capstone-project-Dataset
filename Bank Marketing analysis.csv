@@ -1,5 +1,5 @@
 Id,age,job,marital,education,default,Acc_balance,housing,loan,contact,day,month,duration,campaign,poutcome,deposit
-1001,999,management,married,tertiary,no,2143,yes,no,unknown,5,may,261,1,unknown,no
+1001,45,management,married,tertiary,no,2143,yes,no,unknown,5,may,261,1,unknown,no
 1002,44,technician,single,secondary,no,29,yes,no,unknown,5,may,151,1,unknown,no
 1003,33,entrepreneur,married,secondary,no,2,yes,yes,unknown,5,may,76,1,unknown,no
 1004,47,blue-collar,married,unknown,no,1506,yes,no,unknown,5,may,92,1,unknown,no
